@@ -1,0 +1,30 @@
+{
+  "id": "2421352",
+  "name": "demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15055361",
+      "name": "音量+",
+      "font_class": "yinliang",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "15055363",
+      "name": "音量-",
+      "font_class": "yinliang-",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "22104151",
+      "name": "音量关",
+      "font_class": "yinliangguan",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
